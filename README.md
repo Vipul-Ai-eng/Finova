@@ -16,10 +16,14 @@ The brief (from the business requirements this was built against) was straightfo
 - **Total Amount by State** — horizontal bar, top vs. bottom performing regions
 - **Transaction Type Analysis** — a matrix table (amount, fees, tax, count) across all 10 transaction types — Bill Payment, Card Payment, Deposit, Fee Charge, Interest Credit, Investment, Loan EMI, Refund, Transfer, Withdrawal
 - **Total Amount by Gender** — donut chart, Male vs. Female contribution
+- <img width="1121" height="592" alt="image" src="https://github.com/user-attachments/assets/4be81c8b-e2bf-496a-bd09-357acd4468fc" />
+
 
 **Transactions** — the second page, a full drill-down grid: transaction ID, date, customer, type, status, gender, segment, amount, fees, tax. This is where you go when a KPI card raises a question and you need the actual rows behind it.
 
 Everything filters by **Year**, **Dynamic Measure**, **Occupation**, and **Category** from the left panel, so the same six visuals can answer very different questions depending on what you're slicing by.
+<img width="1121" height="586" alt="image" src="https://github.com/user-attachments/assets/3f8ad076-5fb2-4cdc-8b41-77398fcfb28e" />
+
 
 ## Repo layout
 
