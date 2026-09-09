@@ -11,7 +11,7 @@ A Power BI dashboard that brings transactions, fees, tax, and customer data into
 - Total Amount by State — top vs. bottom regions
 - Transaction Type Analysis — amount, fees, tax, count across 10 types
 - Total Amount by Gender — Male vs. Female split
-- - <img width="1121" height="592" alt="image" src="https://github.com/user-attachments/assets/4be81c8b-e2bf-496a-bd09-357acd4468fc" />
+<img width="1121" height="592" alt="image" src="https://github.com/user-attachments/assets/4be81c8b-e2bf-496a-bd09-357acd4468fc" />
 
 **Transactions** — full drill-down grid: transaction ID, date, customer, type, status, gender, segment, amount, fees, tax.
 <img width="1121" height="586" alt="image" src="https://github.com/user-attachments/assets/3f8ad076-5fb2-4cdc-8b41-77398fcfb28e" />
